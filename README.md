@@ -20,12 +20,12 @@ The purpose of LinkUs is to act as a central hub to connect artists, businesses,
 •	Handles all logistical task(financial, scheduling, legal) for them so they can spend more time focusing on their craft, whether it be music, painting, or some other unique talent  
 •	Lets artists know what type of talent businesses are looking for in the area, i.e. type of music  
 
-What value does LinkUs bring to businesses?  
+**What value does LinkUs bring to businesses?**  
 •	Connects businesses with artists who are looking for work  
 •	Provides the same streamlined processes as for artists   
 •	Ability to see what type of entertainment fans are looking for in the area  
 
-What value does LinkUS bring to Fans?  
+**What value does LinkUS bring to Fans?**  
 •	Able to see what artists are performing at which venues  
 •	Follow favorite artists and stay up to date with when and where they are performing  
 •	Ability to rate artists and post review  
@@ -33,7 +33,7 @@ What value does LinkUS bring to Fans?
 •	Get notified when friend marks as going to an event  
 •	Users will have personal profile where they can connect with other people who have similar interests 
 
-What does a membership look like    
+**What does a membership look like**    
 • Artists - subscription, ~10% cut on signed contracts    
 • Buisnesses - subscription ~10% cut on signed contracts    
 • Fans - Free (ads would be a revenue stream) 
