@@ -9,4 +9,4 @@ Database - Firebase(GCP) \
 Payment - Stripe \
 Document & Legal - Docusign \
 Notification - Twilio \
-Audio - Spotify \
+Audio - Spotify 
