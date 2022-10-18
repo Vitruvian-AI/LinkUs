@@ -13,9 +13,10 @@ Document & Legal - Docusign
 Notification - Twilio  
 Audio - Spotify 
 
-
+## Company Mission Statement 
 The purpose of LinkUs is to act as a central hub to connect artists, businesses, and fans. LinkUs will streamline the process of businesses booking artists. LinkUs will handle scheduling, contracts, and all other logistical tasks that ultimately end up in artists performing at venues. Fans will be able to track their favorite artists and see where they are performing. 
 
+## Product Value
 
 **What value does LinkUs bring to artists?**    
 •	Joins talent network of businesses looking to book artists  
