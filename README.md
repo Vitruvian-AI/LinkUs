@@ -15,7 +15,7 @@ Audio - Spotify
 The purpose of LinkUs is to act as a central hub to connect artists, businesses, and fans. LinkUs will streamline the process of businesses booking artists. LinkUs will handle scheduling, contracts, and all other logistical tasks that ultimately end up in artists performing at venues. Fans will be able to track their favorite artists and see where they are performing. 
 
 
-What value does LinkUs bring to artists? \  
+What value does LinkUs bring to artists?   
 •	Joins talent network of businesses looking to book artists \
 •	Handles all logistical task(financial, scheduling, legal) for them so they can spend more time focusing on their craft, whether it be music, painting, or some other unique talent \
 •	Let’s artists know what type of talent businesses are looking for in the area, i.e. type of music 
