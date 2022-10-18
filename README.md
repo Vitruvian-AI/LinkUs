@@ -1,5 +1,5 @@
 # LinkUs
 
-UI - Flutter
+UI - Flutter \
 Cross Platform
 Location - Flutter
