@@ -36,6 +36,7 @@ The purpose of LinkUs is to act as a central hub to connect artists, businesses,
 •	Get notified when friend marks as going to an event  
 •	Users will have personal profile where they can connect with other people who have similar interests 
 
+## Revenue Stream
 **What does a membership look like**    
 • Artists - subscription, ~10% cut on signed contracts    
 • Buisnesses - subscription ~10% cut on signed contracts    
