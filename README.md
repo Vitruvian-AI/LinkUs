@@ -1,7 +1,7 @@
 # LinkUs
 
 UI - Flutter \
-Cross Platform \
+Cross Platform - Flutter \
 Location - Google API(GCP) \
 Rating System - GCP \
 Suggestion System - GCP \
