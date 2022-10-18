@@ -35,6 +35,7 @@ The purpose of LinkUs is to act as a central hub to connect artists, businesses,
 •	Can see how popular a specific event may be by looking at the attendance list  
 •	Get notified when friend marks as going to an event  
 •	Users will have personal profile where they can connect with other people who have similar interests 
+•	Can subscribe to personalized email newsletter that provides week outlook for performers at local venues 
 
 ## Revenue Stream
 **What does a membership look like?**    
