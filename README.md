@@ -33,7 +33,7 @@ What value does LinkUS bring to Fans? \
 •	Get notified when friend marks as going to an event \
 •	Users will have personal profile where they can connect with other people who have similar interests
 
-What does a membership look like \  
-• Artists - subscription, ~10% cut on signed contracts \  
-• Buisnesses - subscription ~10% cut on signed contracts \  
+What does a membership look like   
+• Artists - subscription, ~10% cut on signed contracts   
+• Buisnesses - subscription ~10% cut on signed contracts   
 • Fans - Free (ads would be a revenue stream)
